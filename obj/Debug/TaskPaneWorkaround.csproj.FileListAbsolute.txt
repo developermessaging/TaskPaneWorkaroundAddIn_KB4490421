@@ -1,0 +1,12 @@
+C:\Users\anixi\source\repos\TaskPaneWorkaround\obj\Debug\TaskPaneWorkaround.Properties.Resources.resources
+C:\Users\anixi\source\repos\TaskPaneWorkaround\obj\Debug\TaskPaneWorkaround.csproj.GenerateResource.cache
+C:\Users\anixi\source\repos\TaskPaneWorkaround\obj\Debug\TaskPaneWorkaround.csproj.CoreCompileInputs.cache
+C:\Users\anixi\source\repos\TaskPaneWorkaround\bin\Debug\TaskPaneWorkaround.dll
+C:\Users\anixi\source\repos\TaskPaneWorkaround\bin\Debug\TaskPaneWorkaround.pdb
+C:\Users\anixi\source\repos\TaskPaneWorkaround\bin\Debug\TaskPaneWorkaround.dll.manifest
+C:\Users\anixi\source\repos\TaskPaneWorkaround\bin\Debug\TaskPaneWorkaround.vsto
+C:\Users\anixi\source\repos\TaskPaneWorkaround\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\anixi\source\repos\TaskPaneWorkaround\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\anixi\source\repos\TaskPaneWorkaround\obj\Debug\TaskPaneWorkaround.csproj.CopyComplete
+C:\Users\anixi\source\repos\TaskPaneWorkaround\obj\Debug\TaskPaneWorkaround.dll
+C:\Users\anixi\source\repos\TaskPaneWorkaround\obj\Debug\TaskPaneWorkaround.pdb
